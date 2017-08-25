@@ -11,7 +11,7 @@ public class Participant {
 	public int returnPosX() {
 		return posX;
 	}
-
+	
 	public void move() {
 		
 	}
