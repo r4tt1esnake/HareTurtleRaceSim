@@ -35,7 +35,7 @@ class Main {
 
 			if(isOverLapped) {
 				for(int i = 0; i < turtle.returnPosX(); i++) {
-					System.out.print(" ");
+					System.out.print("  ");
 				}
 
 				System.out.println("Owch!");
